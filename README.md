@@ -66,7 +66,7 @@ Under the current region context, the chatbot parses keywords and responds from 
 
 ## Screenshots:
 <img width="196" height="441" alt="image" src="https://github.com/user-attachments/assets/afa09d44-e8c9-4487-a6a3-90215d19e947" hspace="20" />
-<img width="193" height="439" alt="image" src="https://github.com/user-attachments/assets/9d1301fa-c60c-41bb-9012-15e7a8503feb" hspace="20"/>
+<img width="197" height="444" alt="image" src="https://github.com/user-attachments/assets/a2facf03-9666-4eec-8ce3-8c19a82835eb" hspace="20" />
 <img width="188" height="442" alt="image" src="https://github.com/user-attachments/assets/ed394dcf-4807-48f1-a772-04b02e761efa" /></br>
 <h3>Also the demo link of the whole app is given above.</h3>
 
