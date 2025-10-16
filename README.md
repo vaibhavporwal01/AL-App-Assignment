@@ -3,7 +3,7 @@
 A simple, dependency‑light Android app that visualizes streaming sensor data from a local CSV, highlights anomalies using basic AI logic, and includes a small rule‑based chatbot for quick insights.
 
 ## Demo
-- Watch the working demo: [Google Drive video](https://drive.google.com/file/d/1j5pst8M-Di8RQz1HmGrkGJyfIPKKS1MZ/view?usp=sharing)
+- Watch the working demo: [Google Drive video](https://drive.google.com/file/d/184xX9N7O5Ixn2QgVJtCvTP8pMpBa7Rf0/view?usp=sharing)
 
 ## Features
 - Live, interval‑streamed data from `assets` CSV (no network, no extra libs)
